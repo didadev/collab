@@ -1,2 +1,2 @@
-start feat 1
+start feat 1 and preparing feature 2
 updating feature 1
